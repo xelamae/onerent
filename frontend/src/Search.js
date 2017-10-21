@@ -19,9 +19,9 @@ export default class SearchArea extends Component {
     this.setState({ isLoading: true, value })
 
     setTimeout(() => {
-
+      var s = this.state.value;
       SearchPropertiesWithData = graphql(SearchProperties, {
-        options: { variables: { search: this.state.value } },
+        options: { variables: { search: s.toLowerCase() } },
       })(Properties);
 
       this.setState({

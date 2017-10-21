@@ -58,24 +58,30 @@ const RootQuery = new GraphQLObjectType({
                    
                     results = _.filter(Properties,function(property){
                         user = _.find(Users, ["id", property.userId]);
-                            args.search = args.search.toLowerCase();
-                            if (
-                                property.street.toLowerCase().indexOf(args.search) != -1 || 
-                                property.city.toLowerCase().indexOf(args.search) != -1 ||
-                                property.state.toLowerCase().indexOf(args.search) != -1 ||
-                                property.zip.toLowerCase().indexOf(args.search) != -1 ||
-                                property.rent.toLowerCase().indexOf(args.search) != -1 
-                                
-                            ){
-                                return true;
-                            }
-
-                            if(
-                                user != undefined &&  (user.firstName.toLowerCase().indexOf(args.search) != -1 ||
-                                user.lastName.toLowerCase().indexOf(args.search) != -1 )
-                            ){
-                                return true;
-                            }
+                            var words = args.search.split(' ');
+                            var isMatched = false;
+                            words.forEach(function(word) {
+                                if (
+                                    property.street.toLowerCase().indexOf(word) != -1 || 
+                                    property.city.toLowerCase().indexOf(word) != -1 ||
+                                    property.state.toLowerCase().indexOf(word) != -1 ||
+                                    property.zip.toLowerCase().indexOf(word) != -1 ||
+                                    property.rent.toLowerCase().indexOf(word) != -1 
+                                    
+                                ){
+                                    isMatched = true;
+                                }
+    
+                                if(
+                                    user != undefined &&  (user.firstName.toLowerCase().indexOf(word) != -1 ||
+                                    user.lastName.toLowerCase().indexOf(word) != -1 )
+                                ){
+                                    isMatched = true;
+                                   
+                                }
+                                if(isMatched) return;
+                            }, this);
+                        return isMatched;  
                     });
                 }
                 return results;

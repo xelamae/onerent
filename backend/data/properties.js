@@ -78,7 +78,7 @@ const Properties = [
         "state": "FL",
         "zip": "32964",
         "rent": "43974.75",
-        "userId": null
+        "userId": "71d7ce654eb8ad44e1932816cdaa243c"
     },
     {
         "id": "b0ceaa93a9b46cfe69c02e4f0779ba87",
@@ -87,7 +87,7 @@ const Properties = [
         "state": "IL",
         "zip": "60697",
         "rent": "54643.98",
-        "userId": null
+        "userId": "71d7ce654eb8ad44e1932816cdaa243c"
     },
     {
         "id": "467bd91eae0dbdeca8bd37e4b12e3394",
@@ -105,7 +105,7 @@ const Properties = [
         "state": "TX",
         "zip": "76110",
         "rent": "12257.20",
-        "userId": null
+        "userId": "04cb39f5dff900bac97bda939eceb69c"
     },
     {
         "id": "a0ab5791b3eccfe24bbcf9e0d660c523",
@@ -123,7 +123,7 @@ const Properties = [
         "state": "VA",
         "zip": "23436",
         "rent": "86069.96",
-        "userId": null
+        "userId": "bbe0991ecf499041bf994d99376c346a"
     },
     {
         "id": "cf7d368740fda998f9a089036e50b870",
@@ -132,7 +132,7 @@ const Properties = [
         "state": "AR",
         "zip": "71914",
         "rent": "30241.60",
-        "userId": null
+        "userId": "569a41a824d6001f642a41b89cfffdb6"
     },
     {
         "id": "c818a8ccd45c072ae5ad67997d596c85",
@@ -141,7 +141,7 @@ const Properties = [
         "state": "OR",
         "zip": "97216",
         "rent": "44179.42",
-        "userId": null
+        "userId": "569a41a824d6001f642a41b89cfffdb6"
     },
     {
         "id": "d23a86432159765a05d12db04a5c8b9e",
@@ -150,7 +150,7 @@ const Properties = [
         "state": "TX",
         "zip": "88579",
         "rent": "97513.00",
-        "userId": null
+        "userId": "bbe0991ecf499041bf994d99376c346a"
     },
     {
         "id": "c60edff02ece8291601f532ac723ad36",
@@ -159,7 +159,7 @@ const Properties = [
         "state": "FL",
         "zip": "32244",
         "rent": "85725.48",
-        "userId": null
+        "userId": "bbe0991ecf499041bf994d99376c346a"
     },
     {
         "id": "ecdc9743125e8c3feb7ac8e99ce3f4ea",
@@ -168,7 +168,7 @@ const Properties = [
         "state": "PA",
         "zip": "17105",
         "rent": "14989.07",
-        "userId": null
+        "userId": "bbe0991ecf499041bf994d99376c346a"
     },
     {
         "id": "e17cda85be903b9b17085e7299fb4351",
@@ -177,7 +177,7 @@ const Properties = [
         "state": "MD",
         "zip": "21282",
         "rent": "53461.60",
-        "userId": null
+        "userId": "04cb39f5dff900bac97bda939eceb69c"
     },
     {
         "id": "e00560600980e23624687be7babc6b2d",
@@ -186,7 +186,7 @@ const Properties = [
         "state": "FL",
         "zip": "33196",
         "rent": "89281.00",
-        "userId": null
+        "userId": "04cb39f5dff900bac97bda939eceb69c"
     },
     {
         "id": "e70c8a7655821edd684bf46cbc97cdc2",
@@ -195,7 +195,7 @@ const Properties = [
         "state": "TX",
         "zip": "76544",
         "rent": "98263.98",
-        "userId": null
+        "userId": "569a41a824d6001f642a41b89cfffdb6"
     },
     {
         "id": "c6eb21bb2ebe8650cb85baa771da95e6",
@@ -204,7 +204,7 @@ const Properties = [
         "state": "TX",
         "zip": "75277",
         "rent": "7832.07",
-        "userId": null
+        "userId": "569a41a824d6001f642a41b89cfffdb6"
     },
     {
         "id": "f511098dd23e1305f0a51b6d447cb324",
@@ -213,7 +213,7 @@ const Properties = [
         "state": "DC",
         "zip": "20470",
         "rent": "30058.52",
-        "userId": null
+        "userId": "04cb39f5dff900bac97bda939eceb69c"
     },
     {
         "id": "1e64f320a1d5907ae20f4193087c4fd4",
@@ -222,7 +222,7 @@ const Properties = [
         "state": "MT",
         "zip": "59806",
         "rent": "3267.39",
-        "userId": null
+        "userId": "569a41a824d6001f642a41b89cfffdb6"
     },
     {
         "id": "a1b85b9c8ef07bb5d96d5d642ef425e0",
@@ -231,7 +231,7 @@ const Properties = [
         "state": "VA",
         "zip": "20195",
         "rent": "79757.46",
-        "userId": null
+        "userId": "3bb0cf78ef0fccd8f0e1f985c5aa50fd"
     },
     {
         "id": "545ef28b329903ee472cf03cef20e5be",
@@ -249,7 +249,7 @@ const Properties = [
         "state": "DC",
         "zip": "20046",
         "rent": "2911.88",
-        "userId": null
+        "userId": "379bcdbf7566dd1eff15f840eb4d69eb"
     },
     {
         "id": "911174136034435f5732515985e6f722",
@@ -258,7 +258,7 @@ const Properties = [
         "state": "IN",
         "zip": "46266",
         "rent": "12644.52",
-        "userId": null
+        "userId": "379bcdbf7566dd1eff15f840eb4d69eb"
     },
     {
         "id": "4b5373b493340d7457339400444996b7",
@@ -267,7 +267,7 @@ const Properties = [
         "state": "NC",
         "zip": "27415",
         "rent": "67734.01",
-        "userId": null
+        "userId": "379bcdbf7566dd1eff15f840eb4d69eb"
     },
     {
         "id": "fd1f3e659f13953c007157b18d7ad9e2",
@@ -294,7 +294,7 @@ const Properties = [
         "state": "PA",
         "zip": "19191",
         "rent": "13311.54",
-        "userId": null
+        "userId": "145c51077cec95f85bd54b8a00529570"
     },
     {
         "id": "698731ec4a3bbf842230f3d0c035fa7e",
@@ -321,7 +321,7 @@ const Properties = [
         "state": "CA",
         "zip": "92165",
         "rent": "60804.59",
-        "userId": null
+        "userId": "5638f71f280492ebc57f0b3565cb2004"
     },
     {
         "id": "9d4b7d867e25d08b08878d6dfb5f6d34",
@@ -330,7 +330,7 @@ const Properties = [
         "state": "CA",
         "zip": "93094",
         "rent": "54390.70",
-        "userId": null
+        "userId": "4603499bb648c48f1e6d015f85e74fc1"
     },
     {
         "id": "13338e5c5794bbbd9205ff235995e6c4",
@@ -339,7 +339,7 @@ const Properties = [
         "state": "FL",
         "zip": "34282",
         "rent": "88468.48",
-        "userId": null
+        "userId": "4603499bb648c48f1e6d015f85e74fc1"
     },
     {
         "id": "53f78d89ef0b5b50467022fc5f3cfb6d",
@@ -348,7 +348,7 @@ const Properties = [
         "state": "MA",
         "zip": "02458",
         "rent": "12684.72",
-        "userId": null
+        "userId": "5638f71f280492ebc57f0b3565cb2004"
     },
     {
         "id": "8acead229789f4184897fd9320cb16e4",
@@ -357,7 +357,7 @@ const Properties = [
         "state": "CA",
         "zip": "93762",
         "rent": "19203.47",
-        "userId": null
+        "userId": "6bb9d93b0ae0eb8da6837626bfb50467"
     },
     {
         "id": "40a759a8396b1d2db432f58b1769c6de",
@@ -366,7 +366,7 @@ const Properties = [
         "state": "CA",
         "zip": "90510",
         "rent": "28070.07",
-        "userId": null
+        "userId": "5638f71f280492ebc57f0b3565cb2004"
     },
     {
         "id": "4178b18321d5387db6827c6945a4857e",
@@ -375,7 +375,7 @@ const Properties = [
         "state": "FL",
         "zip": "33763",
         "rent": "18362.72",
-        "userId": null
+        "userId": "71d7ce654eb8ad44e1932816cdaa243c"
     },
     {
         "id": "6d36fed37d277017c0fa32bb13e464e9",
@@ -384,7 +384,7 @@ const Properties = [
         "state": "DC",
         "zip": "20508",
         "rent": "75122.00",
-        "userId": null
+        "userId": "6bb9d93b0ae0eb8da6837626bfb50467"
     },
     {
         "id": "246ddc5a91a33d5e63424cd91cad2b45",
@@ -393,7 +393,7 @@ const Properties = [
         "state": "NC",
         "zip": "28289",
         "rent": "92612.30",
-        "userId": null
+        "userId": "71d7ce654eb8ad44e1932816cdaa243c"
     },
     {
         "id": "a7b8d58279979dddf4eae897db323ece",
@@ -402,7 +402,7 @@ const Properties = [
         "state": "AZ",
         "zip": "85737",
         "rent": "57849.13",
-        "userId": null
+        "userId": "04cb39f5dff900bac97bda939eceb69c"
     },
     {
         "id": "e43a3885fb59cacdc55292c9054a03b8",
@@ -411,7 +411,7 @@ const Properties = [
         "state": "GA",
         "zip": "30301",
         "rent": "17914.69",
-        "userId": null
+        "userId": "04cb39f5dff900bac97bda939eceb69c"
     },
     {
         "id": "cb64d7a3ff09713a174143145331e947",
@@ -420,7 +420,7 @@ const Properties = [
         "state": "PA",
         "zip": "17110",
         "rent": "58694.27",
-        "userId": null
+        "userId": "41eb80d20e2ae0e5d65bb86c34c8aa46"
     },
     {
         "id": "dcd25addce537d8c28ce11feb1ec41f9",
@@ -429,7 +429,7 @@ const Properties = [
         "state": "CA",
         "zip": "93150",
         "rent": "52570.69",
-        "userId": null
+        "userId": "41eb80d20e2ae0e5d65bb86c34c8aa46"
     },
     {
         "id": "fba8d888909950352a8eb0e6db0b85a8",
@@ -438,7 +438,7 @@ const Properties = [
         "state": "DC",
         "zip": "20456",
         "rent": "51917.26",
-        "userId": null
+        "userId": "41eb80d20e2ae0e5d65bb86c34c8aa46"
     },
     {
         "id": "168b79b2c8f03165ceeccd95dde411fa",
@@ -447,7 +447,7 @@ const Properties = [
         "state": "OK",
         "zip": "74133",
         "rent": "17642.91",
-        "userId": null
+        "userId": "04cb39f5dff900bac97bda939eceb69c"
     },
     {
         "id": "fb052f3c993191cc6685d33564591943",
@@ -456,7 +456,7 @@ const Properties = [
         "state": "NM",
         "zip": "87505",
         "rent": "11599.15",
-        "userId": null
+        "userId": "a58bc7eb6a9ea398c2a63831b5c277cb"
     },
     {
         "id": "1295c73c2da2820e56f9ef5301d9584a",
@@ -465,7 +465,7 @@ const Properties = [
         "state": "TX",
         "zip": "76198",
         "rent": "32494.31",
-        "userId": null
+        "userId": "a58bc7eb6a9ea398c2a63831b5c277cb"
     },
     {
         "id": "e21b652b8381c469c06a1ab89d2f0468",
@@ -474,7 +474,7 @@ const Properties = [
         "state": "PA",
         "zip": "19136",
         "rent": "53088.14",
-        "userId": null
+        "userId": "a58bc7eb6a9ea398c2a63831b5c277cb"
     },
     {
         "id": "0373eb917b22b0e2bd7f9ca64418e62a",
@@ -483,7 +483,7 @@ const Properties = [
         "state": "AL",
         "zip": "36670",
         "rent": "82090.56",
-        "userId": null
+        "userId": "3734ffb74c8292251919184e26aba571"
     },
     {
         "id": "ac6a1a9d96e19f48082ba747c0969bf4",
@@ -492,7 +492,7 @@ const Properties = [
         "state": "OK",
         "zip": "73119",
         "rent": "40280.52",
-        "userId": null
+        "userId": "3734ffb74c8292251919184e26aba571"
     },
     {
         "id": "20affb69100774f446b11c1ba1c7e4fa",
@@ -510,7 +510,7 @@ const Properties = [
         "state": "TX",
         "zip": "78405",
         "rent": "48598.16",
-        "userId": null
+        "userId": "f67df727304fa781716f68ef5a002315"
     },
     {
         "id": "98c0f91dd09c2885178e3ab6da4f3266",
@@ -519,7 +519,7 @@ const Properties = [
         "state": "LA",
         "zip": "71161",
         "rent": "80453.87",
-        "userId": null
+        "userId": "f67df727304fa781716f68ef5a002315"
     },
     {
         "id": "b612b76fac8016138e68a1541c2eaf4a",
@@ -528,7 +528,7 @@ const Properties = [
         "state": "CA",
         "zip": "92717",
         "rent": "11946.51",
-        "userId": null
+        "userId": "f67df727304fa781716f68ef5a002315"
     },
     {
         "id": "ddad033bf7d3e7c78626d8da503995de",
@@ -537,7 +537,7 @@ const Properties = [
         "state": "CA",
         "zip": "90605",
         "rent": "26302.13",
-        "userId": null
+        "userId": "f67df727304fa781716f68ef5a002315"
     },
     {
         "id": "cc672b2936b531f5146ca3dae5c67c3c",
@@ -546,7 +546,7 @@ const Properties = [
         "state": "CA",
         "zip": "95205",
         "rent": "99643.24",
-        "userId": null
+        "userId": "f67df727304fa781716f68ef5a002315"
     },
     {
         "id": "75c9c356d1488523c3b2ee0f12540352",
@@ -555,7 +555,7 @@ const Properties = [
         "state": "IA",
         "zip": "51105",
         "rent": "99352.27",
-        "userId": null
+        "userId": "db6755d326e4368905b53ef4645c4e6b"
     },
     {
         "id": "1d29855fc37c9bfaa286104de181b19f",
@@ -564,7 +564,7 @@ const Properties = [
         "state": "TX",
         "zip": "79188",
         "rent": "31260.01",
-        "userId": null
+        "userId": "db6755d326e4368905b53ef4645c4e6b"
     },
     {
         "id": "abab82c97d2b45e7d98f9beec86a23c6",
@@ -573,7 +573,7 @@ const Properties = [
         "state": "NY",
         "zip": "11388",
         "rent": "34297.97",
-        "userId": null
+        "userId": "db6755d326e4368905b53ef4645c4e6b"
     },
     {
         "id": "b3f1fe0b5c5c03e988462e31dbb81b69",
@@ -582,7 +582,7 @@ const Properties = [
         "state": "IA",
         "zip": "50320",
         "rent": "64762.22",
-        "userId": null
+        "userId": "db6755d326e4368905b53ef4645c4e6b"
     },
     {
         "id": "83b824d0baed36c4ada0c08cb1407698",
@@ -636,7 +636,7 @@ const Properties = [
         "state": "GA",
         "zip": "30343",
         "rent": "7960.89",
-        "userId": "e5109d32532d0a9c3f9e62695a9978e4"
+        "userId": "3ce012b4282c1d9535c563fde8064d56"
     },
     {
         "id": "f6cc1457fcdab66244159e9ef52bd259",
@@ -654,7 +654,7 @@ const Properties = [
         "state": "HI",
         "zip": "96845",
         "rent": "6742.75",
-        "userId": "e5109d32532d0a9c3f9e62695a9978e4"
+        "userId": "3ce012b4282c1d9535c563fde8064d56"
     },
     {
         "id": "df1ba0d34899f8b5293c242e4e4b460b",
@@ -708,7 +708,7 @@ const Properties = [
         "state": "NC",
         "zip": "27605",
         "rent": "70342.23",
-        "userId": null
+        "userId": "db6755d326e4368905b53ef4645c4e6b"
     },
     {
         "id": "6107d6a83717c4359b761c6792dfa54b",
@@ -717,7 +717,7 @@ const Properties = [
         "state": "DC",
         "zip": "20215",
         "rent": "75865.06",
-        "userId": null
+        "userId": "636565a9570c607aa09eb51688507662"
     },
     {
         "id": "a50f8366a0029500bd09ec043eba36ca",
@@ -726,7 +726,7 @@ const Properties = [
         "state": "DC",
         "zip": "20067",
         "rent": "36148.67",
-        "userId": null
+        "userId": "636565a9570c607aa09eb51688507662"
     },
     {
         "id": "4a056745293f3fbe19dd176dc1282b22",
@@ -735,7 +735,7 @@ const Properties = [
         "state": "NJ",
         "zip": "08603",
         "rent": "79240.73",
-        "userId": "eae80c09ed3f6374744d42149d15272b"
+        "userId": "327f85aa076c0a1e5b7f9624c93d47f2"
     },
     {
         "id": "f94d70415ab49016ea28a9e868d35b83",
@@ -744,7 +744,7 @@ const Properties = [
         "state": "DC",
         "zip": "20260",
         "rent": "20670.90",
-        "userId": "eae80c09ed3f6374744d42149d15272b"
+        "userId": "327f85aa076c0a1e5b7f9624c93d47f2"
     },
     {
         "id": "a6e0acd0a66c28ce092da765fb49d50f",
@@ -753,7 +753,7 @@ const Properties = [
         "state": "SC",
         "zip": "29605",
         "rent": "11726.15",
-        "userId": null
+        "userId": "636565a9570c607aa09eb51688507662"
     },
     {
         "id": "b6fbc0de799700034189cff136f4c448",
@@ -762,7 +762,7 @@ const Properties = [
         "state": "NV",
         "zip": "89074",
         "rent": "86793.94",
-        "userId": null
+        "userId": "636565a9570c607aa09eb51688507662"
     },
     {
         "id": "be8e3771adf1e43ce2b61c0f2186c40e",
@@ -807,7 +807,7 @@ const Properties = [
         "state": "CA",
         "zip": "90035",
         "rent": "57253.96",
-        "userId": null
+        "userId": "1e922e92b39eedebe37d6c503dcc58dc"
     },
     {
         "id": "6b9610ffed84fc9c26b3525eda8e080e",
@@ -816,7 +816,7 @@ const Properties = [
         "state": "NY",
         "zip": "10155",
         "rent": "80402.67",
-        "userId": null
+        "userId": "1f8c156ca5ca5e9150de67d41d751040"
     },
     {
         "id": "e02954c18e9f5d54b31e55e9dd58c18f",
@@ -852,7 +852,7 @@ const Properties = [
         "state": "NV",
         "zip": "89012",
         "rent": "76084.90",
-        "userId": null
+        "userId": "1f8c156ca5ca5e9150de67d41d751040"
     },
     {
         "id": "9af78cb66114f98e692fd957507072d8",
@@ -879,7 +879,7 @@ const Properties = [
         "state": "CA",
         "zip": "92424",
         "rent": "27742.10",
-        "userId": "5638f71f280492ebc57f0b3565cb2004"
+        "userId": "145c51077cec95f85bd54b8a00529570"
     },
     {
         "id": "754c430c04cd1769391d39cb70261445",
@@ -906,7 +906,7 @@ const Properties = [
         "state": "TX",
         "zip": "75507",
         "rent": "49422.84",
-        "userId": null
+        "userId": "1e922e92b39eedebe37d6c503dcc58dc"
     },
     {
         "id": "b5dad567c2ff43394c41b079b2da7d0b",
@@ -915,7 +915,7 @@ const Properties = [
         "state": "CA",
         "zip": "90305",
         "rent": "54481.47",
-        "userId": null
+        "userId": "1e922e92b39eedebe37d6c503dcc58dc"
     },
     {
         "id": "9772a22eda8964c7345e8e1ebe2c87eb",
@@ -933,7 +933,7 @@ const Properties = [
         "state": "CA",
         "zip": "95133",
         "rent": "99119.37",
-        "userId": null
+        "userId": "ef478fa49e82f7d2c35bef491c88d001"
     },
     {
         "id": "8306e41ac68d35ffbd165dacc67698fd",
@@ -942,7 +942,7 @@ const Properties = [
         "state": "AL",
         "zip": "36689",
         "rent": "92257.83",
-        "userId": null
+        "userId": "ef478fa49e82f7d2c35bef491c88d001"
     },
     {
         "id": "267febdfde140bb79c6afedc183dc8df",
@@ -969,7 +969,7 @@ const Properties = [
         "state": "TN",
         "zip": "37220",
         "rent": "8758.98",
-        "userId": "e5109d32532d0a9c3f9e62695a9978e4"
+        "userId": "3ce012b4282c1d9535c563fde8064d56"
     },
     {
         "id": "da10d422366f1a36e650dde5f219c413",
@@ -987,7 +987,7 @@ const Properties = [
         "state": "NJ",
         "zip": "08638",
         "rent": "37519.81",
-        "userId": null
+        "userId": "ef478fa49e82f7d2c35bef491c88d001"
     },
     {
         "id": "175576cd85a6370ae23abe0eccfb2b75",
@@ -996,7 +996,7 @@ const Properties = [
         "state": "FL",
         "zip": "34611",
         "rent": "62102.71",
-        "userId": "3734ffb74c8292251919184e26aba571"
+        "userId": "a58bc7eb6a9ea398c2a63831b5c277cb"
     },
     {
         "id": "52eb375da8fcc1cc210f5cc927140f1f",
@@ -1041,7 +1041,7 @@ const Properties = [
         "state": "PA",
         "zip": "15240",
         "rent": "13973.65",
-        "userId": null
+        "userId": "ef478fa49e82f7d2c35bef491c88d001"
     },
     {
         "id": "beb43c22c29d157b71795b957b844cc7",
@@ -1050,7 +1050,7 @@ const Properties = [
         "state": "IL",
         "zip": "60636",
         "rent": "91818.61",
-        "userId": null
+        "userId": "ef478fa49e82f7d2c35bef491c88d001"
     },
     {
         "id": "bfb880f434218d15ffcd57bd2fb2a0f7",
@@ -1059,7 +1059,7 @@ const Properties = [
         "state": "CA",
         "zip": "92619",
         "rent": "1145.28",
-        "userId": null
+        "userId": "ef478fa49e82f7d2c35bef491c88d001"
     },
     {
         "id": "c0697994a1b6a1b96ebff39207447676",
@@ -1068,7 +1068,7 @@ const Properties = [
         "state": "SC",
         "zip": "29905",
         "rent": "72071.50",
-        "userId": null
+        "userId": "ef478fa49e82f7d2c35bef491c88d001"
     },
     {
         "id": "b5b09095dd0dce58c4e2d91b576cca19",
@@ -1077,7 +1077,7 @@ const Properties = [
         "state": "NY",
         "zip": "14220",
         "rent": "76002.43",
-        "userId": "5638f71f280492ebc57f0b3565cb2004"
+        "userId": "145c51077cec95f85bd54b8a00529570"
     },
     {
         "id": "af805079e34e868cba89c216493dc638",
@@ -1086,7 +1086,7 @@ const Properties = [
         "state": "NC",
         "zip": "28299",
         "rent": "61722.33",
-        "userId": null
+        "userId": "ef478fa49e82f7d2c35bef491c88d001"
     },
     {
         "id": "484f8585dabb0a7917d59023a9e725dc",
@@ -1095,7 +1095,7 @@ const Properties = [
         "state": "TN",
         "zip": "37228",
         "rent": "34576.00",
-        "userId": null
+        "userId": "ef478fa49e82f7d2c35bef491c88d001"
     },
     {
         "id": "dac0a491864aa15f57ddc8c6f6f3ec24",
@@ -1104,7 +1104,7 @@ const Properties = [
         "state": "DC",
         "zip": "20337",
         "rent": "25102.32",
-        "userId": null
+        "userId": "ef478fa49e82f7d2c35bef491c88d001"
     },
     {
         "id": "cee72c3a8ae116cca1c4aefab7d89ede",
@@ -1131,7 +1131,7 @@ const Properties = [
         "state": "CA",
         "zip": "92844",
         "rent": "96976.32",
-        "userId": null
+        "userId": "71d7ce654eb8ad44e1932816cdaa243c"
     },
     {
         "id": "ee422faea7f5a886fa018d27267fe354",
@@ -1140,7 +1140,7 @@ const Properties = [
         "state": "AL",
         "zip": "36622",
         "rent": "99494.94",
-        "userId": null
+        "userId": "a9a4571794ea40652bfc846338904ff7"
     },
     {
         "id": "f0068a9a5462bca860e364dfa850758a",
@@ -1149,7 +1149,7 @@ const Properties = [
         "state": "IL",
         "zip": "62776",
         "rent": "63640.63",
-        "userId": null
+        "userId": "a9a4571794ea40652bfc846338904ff7"
     },
     {
         "id": "e6adc09797401893b5e15137f9c1725e",
@@ -1185,7 +1185,7 @@ const Properties = [
         "state": "FL",
         "zip": "33499",
         "rent": "44088.33",
-        "userId": null
+        "userId": "a9a4571794ea40652bfc846338904ff7"
     },
     {
         "id": "cac43d4b1d2f254afc6b9e8e947b588e",
@@ -1194,7 +1194,7 @@ const Properties = [
         "state": "CA",
         "zip": "91186",
         "rent": "65492.66",
-        "userId": null
+        "userId": "a9a4571794ea40652bfc846338904ff7"
     },
     {
         "id": "795202e7627327db8fbc4b514b5ba9ae",
@@ -1203,7 +1203,7 @@ const Properties = [
         "state": "FL",
         "zip": "32399",
         "rent": "88459.56",
-        "userId": null
+        "userId": "a9a4571794ea40652bfc846338904ff7"
     },
     {
         "id": "dc9b824bee36889f202b588b66af7173",
@@ -1212,7 +1212,7 @@ const Properties = [
         "state": "TX",
         "zip": "78737",
         "rent": "69146.35",
-        "userId": null
+        "userId": "a9a4571794ea40652bfc846338904ff7"
     },
     {
         "id": "a39d89929780de86cdea8ae49e9be8bc",
@@ -1248,7 +1248,7 @@ const Properties = [
         "state": "NY",
         "zip": "12237",
         "rent": "94916.94",
-        "userId": null
+        "userId": "a9a4571794ea40652bfc846338904ff7"
     },
     {
         "id": "cf189b9458b7e7bc8b9737afb791265a",
@@ -1275,7 +1275,7 @@ const Properties = [
         "state": "MO",
         "zip": "65898",
         "rent": "74578.51",
-        "userId": null
+        "userId": "e2755136516757e883738338437f54be"
     },
     {
         "id": "b55d7907d1e6ef09f3535fc21fd7ac51",
@@ -1293,7 +1293,7 @@ const Properties = [
         "state": "FL",
         "zip": "33543",
         "rent": "12274.24",
-        "userId": null
+        "userId": "e2755136516757e883738338437f54be"
     },
     {
         "id": "cc1b4994a08d1072fdf3c7759bbb0293",
@@ -1347,7 +1347,7 @@ const Properties = [
         "state": "FL",
         "zip": "34642",
         "rent": "57875.11",
-        "userId": null
+        "userId": "e2755136516757e883738338437f54be"
     }
 ];
 
