@@ -21,7 +21,6 @@ export default class SearchArea extends Component {
     this.setState({ isLoading: true, value })
 
     setTimeout(() => {
-      if (this.state.value.length < 1) return this.resetComponent()
 
       SearchPropertiesWithData = graphql(SearchProperties, {
         options: { variables: { search: this.state.value } },
@@ -30,6 +29,7 @@ export default class SearchArea extends Component {
       this.setState({
         isLoading: false,
       })
+      
     }, 500)
   }
 
