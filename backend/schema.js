@@ -41,6 +41,7 @@ const PropertyType = new GraphQLObjectType({
     })
 })
 
+
 // Root Query
 const RootQuery = new GraphQLObjectType({
     name:'RootQueryType',
@@ -52,10 +53,8 @@ const RootQuery = new GraphQLObjectType({
                 search: {type:GraphQLString}
             },
             resolve(parentValue, args){
-                console.log(args.search);
                 var results = [];
                 if(args.search){
-                   
                     results = _.filter(Properties,function(property){
                         user = _.find(Users, ["id", property.userId]);
                             var words = args.search.split(' ');
